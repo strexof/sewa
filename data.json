@@ -2,5 +2,6 @@
   "nama" : "Nabiel",
   "waktu" : "7 hari",
   "sisa_waktu" : "7 hari",
-  "perintah" : "exit"
+  "perintah" : "clear",
+  "perintah2" : "exit"
 }
